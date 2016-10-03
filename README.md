@@ -1,2 +1,2 @@
-# nom-finder
-Repository for Nom Finder
+# Nom Finder
+Work in progress
